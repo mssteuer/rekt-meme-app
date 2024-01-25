@@ -109,13 +109,13 @@ export const Welcome = () => {
                             </svg>
                         </StyledSvgIcon>
                         <GreetingText>
-                            Welcome to CSPR.click
+                            Welcome to REKT!
                         </GreetingText>
                         <KillerAppText>
-                            Your starting point to develop the next web3 killer app.
+                            If you haven&#39;t gotten REKT, you don&#39;t know what you&#39;re missing!
                         </KillerAppText>
                         <LearnMoreButton onClick={handleReadMore}>
-                            Learn more
+                            Get Totally REKT!
                         </LearnMoreButton>
                     </StyledInfo>
                 </InfoContainer>
